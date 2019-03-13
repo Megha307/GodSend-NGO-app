@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469673776593",
+    "firebase_url": "https://corona1-54142.firebaseio.com",
+    "project_id": "corona1-54142",
+    "storage_bucket": "corona1-54142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469673776593:android:2a65dd2bab65f200",
+        "android_client_info": {
+          "package_name": "com.megha.godsendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469673776593-sqlt4k1rti3edtuh9h9rcvu79i9jceor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.megha.godsendapp",
+            "certificate_hash": "722453927a7e37f6dbda61394607a869b6f4efe0"
+          }
+        },
+        {
+          "client_id": "469673776593-s7cghoms0d38bokgh0qcd5og1aja6rm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpwtt2bnpw8KmsNnmsLt009vxiCERsJvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469673776593-s7cghoms0d38bokgh0qcd5og1aja6rm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
